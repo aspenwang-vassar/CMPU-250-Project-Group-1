@@ -1,2 +1,2 @@
-# cmpu250-project-template
-Template for class project repository for CMPU 250 (Vassar College)
+# cmpu250-project-group-1
+This is the REPO for CMPU-250 Group Project
