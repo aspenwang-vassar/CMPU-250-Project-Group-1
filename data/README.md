@@ -19,3 +19,9 @@
 | Test Results | Describes the results of a medical test conducted during the patient's admission. Possible values include "Normal," "Abnormal," or "Inconclusive," indicating the outcome of the test. |
 | Race | Indicates the ethnicity of the patient, possible values are "White," "African American," "Hispanic," "Asian," and "Multiracial." |
 
+
+# Description of Datasets
+
+healthcare_dataset.csv is the original dataset downloaded from Kaggle, with no modifications.
+cleaned_data.csv contains all of the clearning and data preperation performed during the EDA portion of the project.
+full_data.csv is the dataset with correlation injected into the relationship between predictors and the outcome variable. 
