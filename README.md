@@ -14,8 +14,5 @@ git clone https://github.com/aspenwang-vassar/CMPU-250-Project-Group-1.git
 # Install dependencies
 pip install requirements.txt
 
-# run
-jupyter nbconvert --to html --execute mynotebook.ipynb
-
 ```
 
