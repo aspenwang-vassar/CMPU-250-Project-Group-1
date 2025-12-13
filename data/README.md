@@ -21,10 +21,12 @@
 
 
 # Description of Datasets
+| Dataset Name | Dataset Description |
+|---------------|---------------------|
+| `healthcare_dataset.csv` | This is the original dataset downloaded from Kaggle, with no modifications. |
 
-`healthcare_dataset.csv` is the original dataset downloaded from Kaggle, with no modifications.
+| `cleaned_data.csv` | This contains all of the clearning and data preperation performed during the EDA portion of the project. |
 
-`cleaned_data.csv` contains all of the clearning and data preperation performed during the EDA portion of the project.
+| `full_data.csv` | is the dataset with correlation injected into the relationship between predictors and the outcome variable. |
 
-`full_data.csv` is the dataset with correlation injected into the relationship between predictors and the outcome variable. 
 
